@@ -16,7 +16,7 @@ StealthPass is a powerful terminal-based password generator and strength tester 
 Clone this repository to your local machine:
 
 ```bash
-git clone https://github.com/YourUsername/StealthPass-V1.git
+git clone https://github.com/NoobKingRsa/StealthPassV1.git
 ```
 
 ```bash
