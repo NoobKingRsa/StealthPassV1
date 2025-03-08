@@ -4,9 +4,11 @@ StealthPass is a powerful terminal-based password generator and strength tester 
 
 ## Features
 
-✅ **Custom Password Generation** – Users can specify length and character types.  
+✅ **Custom Password Generation** – Users can specify length and character types.
+
 ✅ **Password Strength Testing** – Checks if a password is strong enough.  
-✅ **Security Recommendations** – Suggests stronger alternatives if needed.  
+✅ **Security Recommendations** – Suggests stronger alternatives if needed.
+
 ✅ **User-Friendly Interface** – Simple menu with clear options.  
 
 ## Installation
@@ -42,7 +44,9 @@ Usage
 Once launched, the tool provides a menu:
 
 1️⃣ Generate a new secure password
+
 2️⃣ Test the strength of an existing password
+
 3️⃣ Exit
 
 Example Output
