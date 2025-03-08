@@ -77,8 +77,9 @@ This project is licensed under the MIT License – free to use and modify.
 
 Contact
 
-🔗 Telegram: NoobKingRsa
-🔗 Coding Channel: Coding With NoobKingRsa
+🔗[Telegram](https://t.me/Coding_With_NoobkingRsa)
 
+🔗[Coding Channel]
+(https://t.me/Coding_With_NoobkingRsa)
 
 ⚡ Remember: A strong password is your first line of defense!
